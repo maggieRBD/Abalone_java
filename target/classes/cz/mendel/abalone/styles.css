@@ -1,0 +1,11 @@
+#rootPane {
+    -fx-font-size: 20pt;
+    -fx-font-family: "Verdana";
+    -fx-font-weight: bold;
+    -fx-padding: 20;
+    -fx-background-image: url("./board-empty.png");
+    -fx-background-size: cover;
+    -fx-grid-lines-visible: true;
+}
+
+
